@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-notes-app-rc64m4aha-tristan-sch.vercel.app/static/css/main.6e5b459a.css",
+    "main.js": "/mern-notes-app-rc64m4aha-tristan-sch.vercel.app/static/js/main.f34e1220.js",
+    "index.html": "/mern-notes-app-rc64m4aha-tristan-sch.vercel.app/index.html",
+    "main.6e5b459a.css.map": "/mern-notes-app-rc64m4aha-tristan-sch.vercel.app/static/css/main.6e5b459a.css.map",
+    "main.f34e1220.js.map": "/mern-notes-app-rc64m4aha-tristan-sch.vercel.app/static/js/main.f34e1220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5b459a.css",
+    "static/js/main.f34e1220.js"
+  ]
+}

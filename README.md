@@ -27,3 +27,4 @@ I followed a tutorial to create a simple mern-notes-app:
 - [The MERN stack for beginners](https://ellertsmarik.medium.com/)
 - [Pass data between React UI and MongoDB Atlas | MERN Tutorial](https://www.youtube.com/watch?v=nUbNn0voiBI)
 # Frontend-mern-notes-app
+# Frontend-mern-notes-app

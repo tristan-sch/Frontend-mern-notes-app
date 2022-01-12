@@ -23,7 +23,7 @@ function CreateNote() {
       title: input.title,
       content: input.content,
     };
-    axios.post("https://backend-mern-notes-app.vercel.app/create", newNote);
+    axios.post("http://localhost:5001/create", newNote);
   }
 
   return (

@@ -13,7 +13,7 @@ Project for my assignment for Module 5: **Back-end - NoSQL in the cloud**
 
 - But then I wanted to figure out why the React app was not working on Vercel (although it worked locally) so I tried to deploy on Vercel another React app, the one from the [tutorial](https://ellertsmarik.medium.com/), check out this repository if you're interested: [hello-back-end-NoSQL](https://github.com/tristan-sch/hello-back-end-NoSQL).
 
-- Finally I could update the React app from the first [tutorial](https://www.youtube.com/watch?v=nUbNn0voiBI) and deploy it on Vercel. Check out this repository if you're interested: [Frontend-mern-notes-app](https://github.com/tristan-sch/Frontend-mern-notes-app).
+- Finally I could update the React app from the first [tutorial](https://www.youtube.com/watch?v=nUbNn0voiBI) and deploy it on Vercel.
 
 ## Stack
 

@@ -9,7 +9,7 @@ function Notes() {
   ]);
 
   useEffect(() => {
-    fetch("https://frontend-mern-notes-app.vercel.app/notes")
+    fetch("/notes")
       .then((res) => {
         if (res.ok) {
           return res.json();
@@ -17,6 +17,7 @@ function Notes() {
       })
       .then((jsonRes) => setNotes(jsonRes));
   });
+  
 
   return (
     <div className="container">

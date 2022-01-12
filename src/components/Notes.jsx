@@ -9,7 +9,7 @@ function Notes() {
   ]);
 
   useEffect(() => {
-    fetch("/notes")
+    fetch("https://backend-mern-notes-app.vercel.app/notes")
       .then((res) => {
         if (res.ok) {
           return res.json();
